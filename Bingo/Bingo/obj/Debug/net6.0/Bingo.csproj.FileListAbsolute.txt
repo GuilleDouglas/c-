@@ -1,0 +1,15 @@
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\bin\Debug\net6.0\Bingo.exe
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\bin\Debug\net6.0\Bingo.deps.json
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\bin\Debug\net6.0\Bingo.runtimeconfig.json
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\bin\Debug\net6.0\Bingo.dll
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\bin\Debug\net6.0\Bingo.pdb
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.AssemblyReference.cache
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfoInputs.cache
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfo.cs
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.CoreCompileInputs.cache
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.dll
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\refint\Bingo.dll
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.pdb
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\Bingo.genruntimeconfig.cache
+D:\GitHub-Almacenamiento\Curso-Net6-Guille\Bingo\Bingo\obj\Debug\net6.0\ref\Bingo.dll
